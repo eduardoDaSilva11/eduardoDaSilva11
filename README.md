@@ -19,4 +19,4 @@
 
 ### Apaixonado por tecnologia e estudando para me tornar um especialista QA! 
 
-- [Email Para Contato: eduardomaea@gmail.com](eduardomaea@gmail.com)
+### Email Para Contato: ```eduardomaea@gmail.com```
